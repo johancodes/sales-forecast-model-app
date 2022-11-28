@@ -1,0 +1,52 @@
+{
+"input1" : 13681,
+"input2" : 11040,
+"input3" : 13232,
+"input4" : 13854,
+"input5" : 11932
+}
+
+Ground truth 13194    
+App 12298.115 Difference 6.5%
+
+//
+
+{
+"input1" : 9793,
+"input2" : 11264,
+"input3" : 12007,
+"input4" : 11083,
+"input5" : 12062
+}
+
+Ground truth 10786    
+App 10737.313 Difference 0.4%
+
+//
+
+{
+"input1" : 11264,
+"input2" : 12007,
+"input3" : 11083,
+"input4" : 12062,
+"input5" : 10786
+}
+
+Ground truth 9340   
+App 10956.143 Difference 17%
+
+//
+
+{
+"input1" : 10453,
+"input2" : 9222,
+"input3" : 9901,
+"input4" : 10567,
+"input5" : 9506
+}
+
+Ground Truth 11704
+App 10939.514 Difference 6.5%
+
+
+
